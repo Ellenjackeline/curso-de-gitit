@@ -1,0 +1,47 @@
+[33mcommit 80457c742d04b343463109910d4cb43b6596a128[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: Ellen <ellenmelo22@hotmail.com>
+Date:   Thu Feb 22 08:44:17 2024 -0300
+
+    to incluindo um commit
+
+[33mcommit 12ee9fb06d9f2e028456c279ccb72599c978e6b1[m
+Author: Ellen <ellenmelo22@hotmail.com>
+Date:   Thu Feb 22 08:33:12 2024 -0300
+
+    adc título h2
+
+[33mcommit a4a274fd0db61bbc52503c72d8fa6a10d28e2270[m
+Author: Ellen <ellenmelo22@hotmail.com>
+Date:   Thu Feb 22 08:22:07 2024 -0300
+
+    pulei linha e adc parágrafo
+
+[33mcommit efb7c3a50e75b739d43a5646df90121a21222fe2[m
+Author: Ellen <ellenmelo22@hotmail.com>
+Date:   Thu Feb 22 08:13:21 2024 -0300
+
+    adc algo
+
+[33mcommit dec158f04cdcf808ab6dd7a50708d88096baacbf[m[33m ([m[1;32mmain[m[33m)[m
+Author: Ellen <ellenmelo22@hotmail.com>
+Date:   Tue Feb 20 11:43:32 2024 -0300
+
+    adc campo de email na pag de contato
+
+[33mcommit 8bbe484b81994f1413dbce262239eae7dbe7b1d4[m
+Author: Ellen <ellenmelo22@hotmail.com>
+Date:   Tue Feb 20 11:29:36 2024 -0300
+
+    adc página de contato
+
+[33mcommit 760c1f96b16259b26324ea74778853fa83cba295[m
+Author: Ellen <ellenmelo22@hotmail.com>
+Date:   Tue Feb 20 11:23:02 2024 -0300
+
+    mudando o head do site
+
+[33mcommit 96b058e36b6dcec5d6fb0eb9e8dd9d2bf47b31fb[m
+Author: Ellen <ellenmelo22@hotmail.com>
+Date:   Tue Feb 20 11:05:25 2024 -0300
+
+    adcionando uma nova img no site
